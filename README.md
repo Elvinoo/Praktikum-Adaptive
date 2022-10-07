@@ -1,0 +1,2 @@
+# Praktikum-Adaptive
+Algoritmika tapshirig
