@@ -242,34 +242,4 @@
     .hours{
         margin-right: 93px;
     }
-    @media (max-width:830px) {
-        .container{
-            width:900%;
-        }
-        main{
-            display: block;
-            align-content: center;
-        }
-        main, footer{
-            width:60%;
-        }
-        .foot-images{
-            display: none;
-        }
-        .images{
-            margin-left: 114px;
-        }
-    }
-    @media (max-width: 1400px){
-        .container{
-            Width:834px;
-            Height:633px;
-        }
-        .little-man, .little-ellipse{
-            display: none;
-        }
-        .images{
-            margin-left:35px;
-        }
-    }    
 }
